@@ -1,6 +1,6 @@
 # Kleinanzeigen Monitor
 
-Dependency-free Python monitoring for new and reappearing listings, with local deduplication and optional Telegram delivery.
+Point this Python script at a Kleinanzeigen search. It remembers which listings it has seen and can send you a Telegram alert when a listing is new or reappears. No Python packages are required.
 
 No personal location, budget, recipient, credentials or historical state is included. Provide your own HTTPS search URL.
 
